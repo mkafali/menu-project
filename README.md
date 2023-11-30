@@ -1,1 +1,1 @@
-# module2-solution
+# It was my first assignment in Coursera Front End Course.
