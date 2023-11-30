@@ -1,1 +1,1 @@
-# It was my first assignment in Coursera Front End Course.
+# It was my first assignment in Front End Course.
